@@ -1,4 +1,9 @@
 
+http://www.mirah.org/
+the source for all information on mirah
+
+
+
 
 open source projects
 
@@ -24,9 +29,10 @@ https://github.com/jackowayed/mirah-hello
 https://github.com/jackowayed/mirahndroid
 https://github.com/zapnap/protoform
 https://github.com/technomancy/ferrante
+https://github.com/technomancy/ohai-android
 
 Desktop
-
+https://github.com/ribrdb/mirah_gwt_example
 
 Daemons
 https://github.com/viking/undercroft

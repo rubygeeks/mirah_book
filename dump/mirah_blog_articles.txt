@@ -1,0 +1,51 @@
+
+resources
+http://www.mirah.org/wiki/Resources
+
+http://en.wikipedia.org/wiki/Mirah_(programming_language)
+
+press/events/top blogs
+http://drdobbs.com/java/229400307
+http://drdobbs.com/java/229400307?pgno=2
+http://www.infoq.com/articles/mirah-interview
+http://www.infoworld.com/d/developer-world/mirah-brings-ruby-niceties-java-430
+http://broadcast.oreilly.com/2010/07/mirah-hacking-ruby-to-boost-pe.html
+
+Presentations
+
+Rubyconf 2009 presentation :
+http://rubyconf2009.confreaks.com/21-nov-2009-14-10-ruby-mutants-charles-nutter.html
+
+Nutter at OSCON 2010: http://groups.google.com/group/mirah/browse_thread/thread/2c1d590404aff8d4
+
+
+
+
+
+articles
+
+http://lambda-the-ultimate.org/node/4020
+
+http://cogitations.arbia.co.uk/post/3984477935/fun-java-with-mirah
+http://boldr.net/getting-started-duby-mongodb
+
+http://stackoverflow.com/questions/4252063/what-does-mirah-offer-over-jruby-groovy-and-scala
+
+http://www.quora.com/Will-the-Mirah-programming-language-gain-popularity
+
+
+
+blogs
+no known mirah focussed blog exists 
+
+Contact Points
+
+irc.freenode.org #mirah
+
+Mailing List:
+http://groups.google.com/group/mirah/
+
+Issue Navigator
+http://code.google.com/p/mirah/issues/list
+
+
