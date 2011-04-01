@@ -1,0 +1,43 @@
+
+
+open source projects
+
+
+Web frameworks
+
+https://github.com/mirah/dubious
+Dubious
+
+Web Applications
+
+https://github.com/am2605/dubious-blog
+https://github.com/baroquebobcat/dubious_hello
+https://github.com/viking/dragonstache
+
+
+
+Android Apps
+framework
+https://github.com/mirah/pindah
+apps
+https://github.com/jackowayed/mirah-hello
+https://github.com/jackowayed/mirahndroid
+https://github.com/zapnap/protoform
+https://github.com/technomancy/ferrante
+
+Desktop
+
+
+Daemons
+https://github.com/viking/undercroft
+An HTTP proxy server written in Mirah that encrypts/decrypts data
+
+https://github.com/thomaslee/asyncj
+Java NIO server written in Mirah 
+
+Others
+https://github.com/mirah/mirah-netbeans-plugin
+https://github.com/mirah/maven-mirah-plugin
+https://github.com/mirah/mirah-parser
+https://github.com/mirah/mmeta
+https://github.com/mirah/mirah
