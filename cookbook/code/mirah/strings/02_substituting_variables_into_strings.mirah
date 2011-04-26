@@ -9,21 +9,7 @@ puts "We're ##{number}!"                             # => "We're #5!"
 puts puts "#{number}" == '5'
 
 
-
-# mirah does not have next method for number class
-# puts "The number after #{number} is #{number.next}." 
-# => "The number after 5 is 6."
-
-
-# not supported in mirah
-#%{Here is #{class InstantClass
-#   def bar 
-#      "some text" 
-#    end 
-#  end 
-#  InstantClass.new.bar
-#}.}
-## => "Here is some text."
+ "Here is some text."
 
 puts
 
