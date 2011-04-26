@@ -7,10 +7,11 @@ puts string.length                                # => 15
 puts string.length()                              # => 15
 #methods can be called by without using ()
 
-#syntax/methods different in java, need to use that one
-#string.count 'i'                             # => 2   # "i" occurs twice. 
-#string.count('i')                            # => 2
-# string.length.next                           # => 16
+puts "count"
+puts string.count 'i'                             # => 2   # "i" occurs twice. 
+string.count('i')                            # => 2
+
+puts  string.length.next                           # => 16
 
 french_string = "il \xc3\xa9tait une fois"
 puts french_string
@@ -33,3 +34,21 @@ this is called heredoc
 EOF
 
 puts long_string
+
+
+
+string                                    # => "My first string"
+puts string.slice(3, 5)                        # => "first"
+#---
+puts string[3].chr + string[4].chr + string[5].chr + string[6].chr + string[7].chr
+# => "first"
+#---
+puts string[3, 5]                             # => "first"
+#---
+puts string.upcase                            # => "MY FIRST STRING"
+puts string                                   # => "My first string"
+puts string.upcase!                           # => "MY FIRST STRING"
+puts string                                   # => "MY FIRST STRING"
+
+puts string.empty?                            # => false
+puts string.include? 'MY'                     # => true
